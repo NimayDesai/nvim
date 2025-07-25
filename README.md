@@ -1,4 +1,4 @@
-# 🌟 NimayDesai's Neovim Dotfiles
+# 🌟 Neovim Dotfiles
 
 Welcome to my personal Neovim dotfiles! This setup is designed for a modern, productive, and visually appealing Neovim experience.
 
