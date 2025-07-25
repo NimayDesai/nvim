@@ -34,11 +34,11 @@ Make sure you have the following installed:
 
 Use a terminal with [true color support](https://github.com/termstandard/colors):
 
-- [Ghostty](https://github.com/mitchellh/ghostty)
-- [Kitty](https://sw.kovidgoyal.net/kitty/)
-- [WezTerm](https://wezfurlong.org/wezterm/)
-- [Alacritty](https://alacritty.org/)
-- [Windows Terminal](https://github.com/microsoft/terminal)
+- [Ghostty](https://github.com/mitchellh/ghostty) (Linux, macOS)
+- [Kitty](https://sw.kovidgoyal.net/kitty/) (Linux, macOS)
+- [WezTerm](https://wezfurlong.org/wezterm/) (Linux, macOS, Windows)
+- [Alacritty](https://alacritty.org/) (Linux, macOS, Windows)
+- [Windows Terminal](https://github.com/microsoft/terminal) (Windows)
 - [iTerm2](https://iterm2.com/) (macOS)
 
 ---
