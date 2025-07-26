@@ -72,8 +72,10 @@ return {
 		},
 
 		sources = {
+
 			default = { "lsp", "path", "snippets", "buffer", "copilot", "tailwindcmp" },
 			providers = {
+
 				copilot = {
 					name = "copilot",
 					module = "blink-cmp-copilot",
